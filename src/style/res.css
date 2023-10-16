@@ -1,0 +1,166 @@
+@media screen and (max-width: 768px) {
+    header {
+        font-size: 16px;
+        justify-content: center;
+    }
+
+    .brand-title {
+        font-size: 20px;
+    }
+
+    #nav-span {
+        display: none;
+        margin: 3px;
+    }
+
+    .cart-count {
+        font-size: 10px;
+        width: 8px;
+        height: 8px;
+        top: -8px;
+        right: -8px;
+    }
+
+    article {
+        font-size: 12px;
+        padding: 10px;
+    }
+
+    .bi-lightning-fill {
+        color: gold;
+    }
+
+    main {
+        grid-template-columns: 1fr;
+        margin-top: 5px;
+    }
+
+    .woomen-fashion,
+    .men-fashion,
+    .kids-fashion {
+        height: auto;
+        opacity: 0.8;
+
+    }
+
+    .cart-name {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+
+    button {
+        width: 100px;
+        height: 40px;
+    }
+
+    .part1 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card1,
+    .card2 {
+        width: 100%;
+        margin: 10px;
+    }
+
+    .card2-text {
+        margin-top: 100px;
+        margin-left: 0;
+    }
+
+    .card2-name {
+        font-size: 24px;
+    }
+
+    .card2-button {
+        font-size: 12px;
+    }
+
+    .part3 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .part4 {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .part5 {
+        /* height: 400px; */
+
+        display: none;
+        font-size: 10px;
+        background-size: cover;
+    }
+    .part6{
+        display:grid;
+        grid-template-columns: 1fr;
+    }
+    .card{
+        margin-left: -50px;
+    }
+    .images{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .cardd1{
+        margin-left:0px ;
+    }
+    .brands{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-left: 0px;
+    }
+
+    .ft-input {
+        height: 30px;
+        width: 300px;
+        margin-left: -80px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    footer {
+        padding: 10px;
+        margin-top: 30px;
+    }
+
+    .footer-main-title {
+        font-size: 20px;
+        margin: 15px;
+    }
+
+    .ft-input {
+        height: 40px;
+        margin-right: 10px;
+    }
+
+    .footer-btn {
+        font-size: 16px;
+    }
+
+    .footer-row {
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+
+    .footer-brand-name {
+        font-size: 20px;
+    }
+
+    .footer-title {
+        font-size: 14px;
+        margin-top: 20px;
+    }
+
+    .footer-title~span {
+        margin-bottom: 5px;
+    }
+}
