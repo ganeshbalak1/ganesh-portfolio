@@ -1,0 +1,68 @@
+* header
+{
+ display: flex;
+ justify-content: space-around;
+ font-family: arial;
+ font-size: 15px;
+ padding: 20px;
+}
+.brand-name
+{
+   font-size: 30px;
+   color: blue;
+   font-weight: bold;
+}
+nav span
+{
+    margin-right: 40px;
+    color: gray;
+}
+header button
+{
+ font-size: 15px;
+ border: none;
+ padding: 10px;
+ background-color: blue;
+ color:white;
+ border-radius: 10px;
+}
+.main-title
+{
+ font-family: arial;
+ font-size: 50px;
+ margin-left: 120px;
+ margin-top: 100px;
+}
+.main-subtitle
+{
+ font-family: arial;
+ font-size: 20px;
+ margin-left: 120px;
+ margin-top: 20px;
+ line-height: 40px;
+ color: gray;
+ }
+
+.main-button
+{
+  margin-left:120px;
+  margin-top:50px;
+}
+.btn-pages, .btn-docs
+{
+ font-size: 16px;
+ padding: 15px;
+ border: none;
+ width: 200px;
+ border-radius:10px;
+}
+ .btn-pages
+ {
+ background-color: blue;
+ color: white;
+}
+.btn-docs
+{
+ background-color: rgb(235, 238, 245);
+ color: blue;
+}
