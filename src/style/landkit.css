@@ -66,3 +66,30 @@ header button
  background-color: rgb(235, 238, 245);
  color: blue;
 }
+
+
+@media screen and (max-width: 700px)
+{
+    header{
+      display: flex;
+      flex-direction: column;
+    }
+    nav{
+      display: flex;
+      margin-left: -20px;
+      margin-top: 10px;
+      padding: 5px;
+    }
+    nav span{
+      margin-left: -5px;
+    }
+    button{
+      margin-top: 30px;
+    }
+    img{
+      width:400px;
+    }
+    #main{
+          margin-left: -50px;
+    }
+}
