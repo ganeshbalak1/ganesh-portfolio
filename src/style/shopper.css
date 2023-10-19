@@ -63,7 +63,7 @@
                 margin-top:5px;
             }
             .woomen-fashion{
-                background-image: url("/my-portfolio/public/images/women-fashion.jpg");
+                background-image: url("/public/images/women-fashion.jpg");
                 background-size: cover;
                 display: flex;
                 justify-content: center;
@@ -73,7 +73,7 @@
 
             }
             .men-fashion{
-                background-image: url("/my-portfolio/public/images/men-fashion.jpg");
+                background-image: url("/public/images/men-fashion.jpg");
                  background-size: cover;
                  display: flex;
                 justify-content: center;
@@ -82,7 +82,7 @@
 
             }
             .kids-fashion{
-                background-image: url("/my-portfolio/public/images/kid-fashion.jpg");
+                background-image: url("/public/images/kid-fashion.jpg");
                 background-size: cover;
                 display: flex;
                 justify-content: center;
@@ -145,7 +145,7 @@
                
              }
             .card1 {
-                background-image: url("/my-portfolio/public/images/part1-img1.jpeg");
+                background-image: url("/public/images/part1-img1.jpeg");
                 background-size: cover;
                 width: 30%;
                 height: 450px;
@@ -157,7 +157,7 @@
                 
              }
              .card2{
-                background-image: url("/my-portfolio/public/images/part1-img2.jpeg");
+                background-image: url("/public/images/part1-img2.jpeg");
                 width: 60%;
                 height: 450px;
                  background-size: cover;
@@ -210,14 +210,14 @@
                 display: flex;
                
              }.carda1{
-                background-image: url("/my-portfolio/public/images/part2-img1.jpg");
+                background-image: url("/public/images/part2-img1.jpg");
                 width: 60%;
                 height: 450px;
                  background-size: cover;
                 
              }
              .carda2{
-             background-image: url("/my-portfolio/public/images/part2-img2.jpg");
+             background-image: url("/public/images/part2-img2.jpg");
              background-size: cover;
              width: 30%;
              height: 450px;
@@ -286,7 +286,7 @@
              }
              
              .cardb1{
-                background-image: url("/my-portfolio/public/images/part3-img1.jpg");
+                background-image: url("/public/images/part3-img1.jpg");
                 background-size: cover;
                 height: 350px;
                 width: 280px;
@@ -333,7 +333,7 @@
             }
 
             .cardb1:hover{
-               background-image: url("/my-portfolio/public/images/part3-img2.jpg");
+               background-image: url("/public/images/part3-img2.jpg");
                background-size: cover;
             }
             .card-subtitle{
@@ -361,7 +361,7 @@
                margin-left: 5px;
            }
              .cardb2{
-                background-image: url("/my-portfolio/public/images/part3-img3.jpg");
+                background-image: url("/public/images/part3-img3.jpg");
                 background-size: cover;
                 height: 350px;
                 width: 260px;
@@ -379,11 +379,11 @@
                transition: 1s;
             }
             .cardb2:hover{
-               background-image: url("/my-portfolio/public/images/part3-img4.jpg");
+               background-image: url("/public/images/part3-img4.jpg");
                background-size: cover;
             }
              .cardb3{
-                background-image: url("/my-portfolio/public/images/part3-img5.jpg");
+                background-image: url("/public/images/part3-img5.jpg");
                 background-size: cover;
                 height: 350px;
                 width: 260px;
@@ -418,11 +418,11 @@
                transition: 1s;
             }
             .cardb3:hover{
-               background-image: url("/my-portfolio/public/images/part3-img6.jpg");
+               background-image: url("/public/images/part3-img6.jpg");
                background-size: cover;
             }
              .cardb4{
-                background-image: url("/my-portfolio/public/images/part3-img7.jpg");
+                background-image: url("/public/images/part3-img7.jpg");
                 background-size: cover;
                 height: 350px;
                 width: 260px;
@@ -440,7 +440,7 @@
                transition: 1s;
             }
             .cardb4:hover{
-               background-image: url("/my-portfolio/public/images/part3-img8.jpg");
+               background-image: url("/public/images/part3-img8.jpg");
                background-size: cover;
             }
             .part4{
@@ -454,7 +454,7 @@
             }
             
             .cardc1{
-               background-image: url("/my-portfolio/public/images/part4-img1.jpg");
+               background-image: url("/public/images/part4-img1.jpg");
                background-size: cover;
                height: 350px;
                width: 280px;
@@ -472,11 +472,11 @@
               transition: 1s;
            }
             .cardc1:hover{
-               background-image: url("/my-portfolio/public/images/part4-img2.jpg");
+               background-image: url("/public/images/part4-img2.jpg");
                background-size: cover;
            }
             .cardc2{
-               background-image: url("/my-portfolio/public/images/part4-img3.jpg");
+               background-image: url("/public/images/part4-img3.jpg");
                background-size: cover;
                height: 350px;
                width: 260px;
@@ -495,11 +495,11 @@
               transition: 1s;
            }
            .cardc2:hover{
-              background-image: url("/my-portfolio/public/images/part4-img4.jpg");
+              background-image: url("/public/images/part4-img4.jpg");
               background-size: cover;
            }
             .cardc3{
-               background-image: url("/my-portfolio/public/images/part4-img5.jpg");
+               background-image: url("/public/images/part4-img5.jpg");
                background-size: cover;
                height: 350px;
                width: 260px;
@@ -517,11 +517,11 @@
               transition: 1s;
            }
            .cardc3:hover{
-              background-image: url("/my-portfolio/public/images/part4-img6.jpg");
+              background-image: url("/public/images/part4-img6.jpg");
               background-size: cover;
            }
             .cardc4{
-               background-image: url("/my-portfolio/public/images/part4-img7.jpg");
+               background-image: url("/public/images/part4-img7.jpg");
                background-size: cover;
                height: 350px;
                width: 260px;
@@ -539,7 +539,7 @@
               margin-top: 90%;
               transition: 1s;}
            .cardc4:hover{
-            background-image: url("/my-portfolio/public/images/part4-img8.jpg");
+            background-image: url("/public/images/part4-img8.jpg");
             background-size: cover;}
            .discover{
             text-align: center;
@@ -556,7 +556,7 @@
             width:100%;
             height: 100vh;
             background-repeat: no-repeat;
-            background-image: url("/my-portfolio/public/images/part5-background.jpg");
+            background-image: url("/public/images/part5-background.jpg");
             margin-top:100px
            }
            .part5-title{
@@ -706,7 +706,7 @@
             margin:50px;
            }
            .cardd1{
-            background-image: url("/my-portfolio/public/images/part7-img1.jpg");
+            background-image: url("/public/images/part7-img1.jpg");
             height: 180px;
             width: 180px;
             margin-right:10px;
@@ -727,7 +727,7 @@
             
          }
            .cardd2{
-            background-image: url("/my-portfolio/public/images/part7-img2.jpg");
+            background-image: url("/public/images/part7-img2.jpg");
          
             height: 180px;
             width: 180px;
@@ -746,7 +746,7 @@
             margin-top: 50%;
          }
            .cardd3{
-            background-image: url("/my-portfolio/public/images/part7-img3.jpg");
+            background-image: url("/public/images/part7-img3.jpg");
             height: 180px;
             width: 180px;
             margin-right:10px;
@@ -765,7 +765,7 @@
             
          }
            .cardd4{
-            background-image: url("/my-portfolio/public/images/part7-img4.jpg");
+            background-image: url("/public/images/part7-img4.jpg");
             height: 180px;
             width: 180px;
             margin-right:10px;
@@ -784,7 +784,7 @@
             
          }
            .cardd5{
-            background-image: url("/my-portfolio/public/images/part7-img5.jpg");
+            background-image: url("/public/images/part7-img5.jpg");
             height: 180px;
             width: 180px;
             margin-right:10px;
@@ -803,7 +803,7 @@
             
          }
            .cardd6{
-            background-image: url("/my-portfolio/public/images/part7-img6.jpg");
+            background-image: url("/public/images/part7-img6.jpg");
             height: 180px;
             width: 180px;
             margin-right:10px;
