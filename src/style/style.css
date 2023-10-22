@@ -32,6 +32,7 @@ img {
 @media screen and (orientation:portrait) {
     #pro {
         position: unset;
+        margin-right: 30px;
         /* display: block; */
     }
 
@@ -43,5 +44,7 @@ img {
     #part1 {
         margin-left: 10px;
     }
-    
+    .my-name{
+        margin-right: 20px;
+    }
 }
